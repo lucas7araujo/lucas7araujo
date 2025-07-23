@@ -18,7 +18,7 @@ I’m a developer in training focused on web applications. I’m always looking 
 
 ## 🚀 Projetos | Projects
 
-### 🔹 [CRUD RH Master](https://github.com/lucas7araujo/crud-rh-master)
+### 🔹 [CRUD RH Master](https://github.com/lucas7araujo/CadastroFuncionarios.git)
 
 Sistema de gestão de funcionários com operações completas de cadastro, listagem, edição e exclusão (CRUD). Desenvolvido com HTML, CSS e JavaScript puro, simula um ambiente básico de RH para prática de lógica e integração entre front e back-end.
 
