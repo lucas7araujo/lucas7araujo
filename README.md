@@ -24,7 +24,11 @@ Sistema de gestão de funcionários com operações completas de cadastro, lista
 
 Employee management system with full Create, Read, Update, and Delete (CRUD) operations. Built using pure HTML, CSS, and JavaScript, it simulates a basic HR environment to practice logic and front-end/back-end integration.
 
----
+### 🔹 [Trilha Challenge](https://github.com/lucas7araujo/NaTrilhaDev.git)
+
+Projeto de página utilizando apenas HTML e CSS, com o objetivo de consolidar conhecimentos em Front-End e praticar a replicação de um design previamente desenvolvido no Figma.
+
+Web page project built using pure HTML and CSS, aimed at reinforcing Front-End concepts and practicing the replication of an existing design created in Figma.
 
 ## 📜 Certificações | Certifications
 
