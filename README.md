@@ -30,21 +30,14 @@ Projeto de página utilizando apenas HTML e CSS, com o objetivo de consolidar co
 
 Web page project built using pure HTML and CSS, aimed at reinforcing Front-End concepts and practicing the replication of an existing design created in Figma.
 
-## 📜 Certificações | Certifications
-
-- Journey Backend — WebTech (Iniciado em 07/2025, em andamento)  
-- Journey Backend — WebTech (Started in 07/2025, currently in progress)
-
----
 
 ## 📊 Status Atual | Current Status
 
-### 🎯 Foco Atual | Current Focus  
-- 📚 Estudando: JavaScript, APIs REST, Node.js  
-- 🔧 Fortalecendo lógica de programação com C# e Java
+### 🎯 Momento Acadêmico | Academic Moment  
+- 📚 Cursando o 2° Período de Sistemas de Informação 
 
-### 🎯 Objetivo Profissional | Career Goal  
-- Em busca de oportunidades como **estagiário** ou **desenvolvedor júnior**
+### 🎯 Momento Profissional | Career Moment  
+- Atuando como estagiário em Desnevolvimento Fullstack na dti digital.
 
 ---
 
